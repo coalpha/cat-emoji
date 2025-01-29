@@ -7,7 +7,7 @@ purity or authority looking down on something that is "beneath you".
 
 Eve: As we all know, tabs are better than spaces.
 
-Bob: <img src="scringe.png" width=20/>
+Bob: <img src="scringe.png" width=40/>
 
 ## where
 

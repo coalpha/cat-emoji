@@ -7,4 +7,4 @@ name change to `scronge`.
 
 Eve: Thank you for the explanation. I remember nothing.
 
-Alice: <img src="scronge.png" width=20/>
+Alice: <img src="scronge.png" width=40/>

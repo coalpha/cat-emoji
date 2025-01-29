@@ -17,3 +17,7 @@ Alice: <img src="scrumge.png" width=20/> that's so bad hahaha.
 
 - [the_scrungiest_tm_you_can_barely_tell_hes_only](https://www.reddit.com/r/scrungycats/comments/exdojf/the_scrungiest_tm_you_can_barely_tell_hes_only/)
 - [u/Sarkastik-Overlord](https://www.reddit.com/u/Sarkastik-Overlord)
+
+## trivia
+
+"omegascrumge" is also often written out in plaintext to indicate a more intense scrumge.
