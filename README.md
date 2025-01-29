@@ -15,3 +15,4 @@ I do not own those photos but I am grateful to the people who posted them.
 - [`:scringe:`](scringe) <img width=40 src="scringe/scringe.png"/>
 - [`:scrange:`](scrange) <img width=40 src="scrange/scrange.png"/>
 - [`:scronge:`](scronge) <img width=40 src="scronge/scronge.png"/>
+- [`:scrimge:`](./scrimge) <img width=40 src="./scrimge/scrimge.png"/>
